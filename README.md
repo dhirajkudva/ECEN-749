@@ -1,2 +1,4 @@
-# ECEN-749
-Microprocessor Digital design
+# ECEN-749 Microprocessor System Design Labs
+Worked on Zynq SoC and tools used : Xilinx Vivado
+
+
